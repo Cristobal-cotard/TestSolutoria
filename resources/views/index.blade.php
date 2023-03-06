@@ -57,7 +57,7 @@
             </div>
             <div class="input-group mb-3">
               <span class="input-group-text col-md-3">Valor</span>
-              <input type="text" class="form-control" placeholder="Valor" id="val_i" name="val_i">
+              <input type="number" class="form-control" placeholder="Valor" id="val_i" name="val_i">
             </div>
             <div class="input-group mb-3">
               <span class="input-group-text col-md-3">Fecha</span>
@@ -106,7 +106,7 @@
             </div>
             <div class="input-group mb-3">
               <span class="input-group-text col-md-3">Valor</span>
-              <input type="text" class="form-control" placeholder="Valor" id="u_val_i" name="u_val_i">
+              <input type="number" class="form-control" placeholder="Valor" id="u_val_i" name="u_val_i">
             </div>
             <div class="input-group mb-3">
               <span class="input-group-text col-md-3">Fecha</span>
